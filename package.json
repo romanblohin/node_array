@@ -1,0 +1,11 @@
+{
+  "name": "node_example_array",
+  "version": "1.0.0",
+  "description": "Example with array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Blohin",
+  "license": "ISC"
+}
